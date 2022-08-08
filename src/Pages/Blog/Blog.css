@@ -1,0 +1,13 @@
+.image-background1{
+    background-image: url('./blog1.jpg');
+}
+.declairsize{
+    width: 200px;
+    height: 200px;
+}
+a{
+    text-decoration: none;
+}
+.text-justify{
+    text-align: justify;
+}

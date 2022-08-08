@@ -1,0 +1,17 @@
+.image-background{
+    background-image: url('../../../public/image/background-header.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 660px;
+}
+a:-webkit-any-link{
+    text-decoration: none;
+}
+.text-justify{
+    text-align: justify;
+}
+
+
+/* .widdecl{
+    width: 300px;
+} */
