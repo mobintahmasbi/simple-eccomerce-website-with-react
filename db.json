@@ -46,84 +46,84 @@
       "imageaddress": "image/bastani.jpg",
       "title": "bastani",
       "explain": "bastani Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "6$"
+      "price": "6"
     },
     {
       "id": 2,
       "imageaddress": "image/cake.jpg",
       "title": "cake",
       "explain": "cake Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "3$"
+      "price": "3"
     },
     {
       "id": 3,
       "imageaddress": "image/chai.jpg",
       "title": "chai",
       "explain": "chai Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "10$"
+      "price": "10"
     },
     {
       "id": 4,
       "imageaddress": "image/chipse.jpg",
       "title": "chipse",
       "explain": "chipse Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "7$"
+      "price": "7"
     },
     {
       "id": 5,
       "imageaddress": "image/fandogh.jpg",
       "title": "fandogh",
       "explain": "fandogh Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "4$"
+      "price": "4"
     },
     {
       "id": 6,
       "imageaddress": "image/kare.jpg",
       "title": "kare",
       "explain": "kare Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "3$"
+      "price": "3"
     },
     {
       "id": 7,
       "imageaddress": "image/karebadom.jpg",
       "title": "karebadom",
       "explain": "karebadom Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "13$"
+      "price": "13"
     },
     {
       "id": 8,
       "imageaddress": "image/mast.jpg",
       "title": "mast",
       "explain": "mast Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "6$"
+      "price": "6"
     },
     {
       "id": 9,
       "imageaddress": "image/noshabe.jpg",
       "title": "noshabe",
       "explain": "noshabe Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "4$"
+      "price": "4"
     },
     {
       "id": 10,
       "imageaddress": "image/pofak.jpg",
       "title": "pofak",
       "explain": "pofak Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "1$"
+      "price": "1"
     },
     {
       "id": 11,
       "imageaddress": "image/shir.png",
       "title": "shir",
       "explain": "shir Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "3$"
+      "price": "3"
     },
     {
       "id": 12,
       "imageaddress": "image/zar.jpg",
       "title": "zar",
       "explain": "zar Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit iure totam libero sit tempore rem laudantium. Repudiandae reprehenderit asperiores assumenda enim fuga provident veritatis nulla placeat, voluptatibus quam exercitationem voluptates.",
-      "price": "8$"
+      "price": "8"
     }
   ]
 }

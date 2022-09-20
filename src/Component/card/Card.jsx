@@ -36,7 +36,7 @@ function Card(props) {
                             buy
                         </button>
                         <div className="text-dark fw-bold opacity-75">
-                            {props.price}
+                            {props.price}$
                         </div>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min'
 import Profile from './Pages/Profile/Profile';
 import Productpage from './Pages/Productpage/Productpage';
-
+import Basket from './Pages/Basket/Basket'
 
 export default function App() {
     return (
@@ -19,6 +19,8 @@ export default function App() {
             <Route path='Register' element={<Register />} />
             <Route path='Profile' element={<Profile />} />
             <Route path='Products/:id' element={<Productpage />} />
+            <Route path='Basket' element={<Basket />} />
+
         </Routes>
     )
 }

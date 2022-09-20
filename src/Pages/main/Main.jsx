@@ -34,7 +34,7 @@ export default function Main() {
                     </h1>
                     <hr />
                     <div className="row gx-4">
-                        <div className="col-sm-10 col-12 d-flex flex-wrap">
+                        <div className="col-sm-10 col-12 d-flex flex-wrap mb-5">
                             
                             {cards}    
                             
@@ -66,11 +66,6 @@ export default function Main() {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
-                        <div className="row">
-                            <button className="btn btn-outline-primary my-4 col-4 offset-4">
-                                see more
-                            </button>
                         </div>
                     </div >
                 </main >
